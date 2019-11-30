@@ -1,3 +1,7 @@
+//batch
+var batch_360p = ["-.html", "-.html", "-.html"];
+var batch_470p = ["-.html", "-.html", "-.html"];
+var batch_720p = ["-.html", "-.html", "-.html"];
 //episode 1
 var link360_1 = ["-.html", "-.html", "-.html"];
 var link480_1 = ["-.html", "-.html", "-.html"];
@@ -84,37 +88,37 @@ var link480_21 = ["-.html", "-.html", "-.html"];
 var link720_21 = ["-.html", "-.html", "-.html"];
 //episode 22
 var link360_22 = ["-.html", "-.html", "-.html"];
-var link480_22 = ["-", "-", "-"];
-var link720_22 = ["-", "-", "-"];
+var link480_22 = ["-.html", "-.html", "-.html"];
+var link720_22 = ["-.html", "-.html", "-.html"];
 //episode 23
-var link360_23 = ["-", "-", "-"];
-var link480_23 = ["-", "-", "-"];
-var link720_23 = ["-", "-", "-"];
+var link360_23 = ["-.html", "-.html", "-.html"];
+var link480_23 = ["-.html", "-.html", "-.html"];
+var link720_23 = ["-.html", "-.html", "-.html"];
 //episode 24
-var link360_24 = ["-", "-", "-"];
-var link480_24 = ["-", "-", "-"];
-var link720_24 = ["-", "-", "-"];
+var link360_24 = ["-.html", "-.html", "-.html"];
+var link480_24 = ["-.html", "-.html", "-.html"];
+var link720_24 = ["-.html", "-.html", "-.html"];
 //episode 25
-var link360_25 = ["-", "-", "-"];
-var link480_25 = ["-", "-", "-"];
-var link720_25 = ["-", "-", "-"];
+var link360_25 = ["-.html", "-.html", "-.html"];
+var link480_25 = ["-.html", "-.html", "-.html"];
+var link720_25 = ["-.html", "-.html", "-.html"];
 //episode 26
-var link360_26 = ["-", "-", "-"];
-var link480_26 = ["-", "-", "-"];
-var link720_26 = ["-", "-", "-"];
+var link360_26 = ["-.html", "-.html", "-.html"];
+var link480_26 = ["-.html", "-.html", "-.html"];
+var link720_26 = ["-.html", "-.html", "-.html"];
 //episode 27
-var link360_27 = ["-", "-", "-"];
-var link480_27 = ["-", "-", "-"];
-var link720_27 = ["-", "-", "-"];
+var link360_27 = ["-.html", "-.html", "-.html"];
+var link480_27 = ["-.html", "-.html", "-.html"];
+var link720_27 = ["-.html", "-.html", "-.html"];
 //episode 28
-var link360_28 = ["-", "-", "-"];
-var link480_28 = ["-", "-", "-"];
-var link720_28 = ["-", "-", "-"];
+var link360_28 = ["-.html", "-.html", "-.html"];
+var link480_28 = ["-.html", "-.html", "-.html"];
+var link720_28 = ["-.html", "-.html", "-.html"];
 //episode 29
-var link360_29 = ["-", "-", "-"];
-var link480_29 = ["-", "-", "-"];
-var link720_29 = ["-", "-", "-"];
+var link360_29 = ["-.html", "-.html", "-.html"];
+var link480_29 = ["-.html", "-.html", "-.html"];
+var link720_29 = ["-.html", "-.html", "-.html"];
 //episode 30
-var link360_30 = ["-", "-", "-"];
-var link480_30 = ["-", "-", "-"];
-var link720_30 = ["-", "-", "-"];
+var link360_30 = ["-.html", "-.html", "-.html"];
+var link480_30 = ["-.html", "-.html", "-.html"];
+var link720_30 = ["-.html", "-.html", "-.html"];
