@@ -3,17 +3,17 @@ var batch_360p = ["-.html", "-.html", "-.html", "-.html"];
 var batch_470p = ["-.html", "-.html", "-.html", "-.html"];
 var batch_720p = ["-.html", "-.html", "-.html", "-.html"];
 //episode 1
-var link360_1 = ["-.html", "-.html", "-.html"];
-var link480_1 = ["-.html", "-.html", "-.html"];
-var link720_1 = ["-.html", "-.html", "-.html"];
+var link360_1 = ["-.html", "-.html", "-.html", "-.html"];
+var link480_1 = ["-.html", "-.html", "-.html", "-.html"];
+var link720_1 = ["-.html", "-.html", "-.html", "-.html"];
 //episode 2
-var link360_2 = ["-.html", "-.html", "-.html"];
-var link480_2 = ["-.html", "-.html", "-.html"];
-var link720_2 = ["-.html", "-.html", "-.html"];
+var link360_2 = ["-.html", "-.html", "-.html", "-.html"];
+var link480_2 = ["-.html", "-.html", "-.html", "-.html"];
+var link720_2 = ["-.html", "-.html", "-.html", "-.html"];
 //episode 3
-var link360_3 = ["-.html", "-.html", "-.html"];
-var link480_3 = ["-.html", "-.html", "-.html"];
-var link720_3 = ["-.html", "-.html", "-.html"];
+var link360_3 = ["-.html", "-.html", "-.html", "-.html"];
+var link480_3 = ["-.html", "-.html", "-.html", "-.html"];
+var link720_3 = ["-.html", "-.html", "-.html", "-.html"];
 //episode 4
 var link360_4 = ["-.html", "-.html", "-.html"];
 var link480_4 = ["-.html", "-.html", "-.html"];
