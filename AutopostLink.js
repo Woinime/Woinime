@@ -1,7 +1,7 @@
 //batch
-var batch_360p = ["-.html", "-.html", "-.html"];
-var batch_470p = ["-.html", "-.html", "-.html"];
-var batch_720p = ["-.html", "-.html", "-.html"];
+var batch_360p = ["-.html", "-.html", "-.html", "-.html"];
+var batch_470p = ["-.html", "-.html", "-.html", "-.html"];
+var batch_720p = ["-.html", "-.html", "-.html", "-.html"];
 //episode 1
 var link360_1 = ["-.html", "-.html", "-.html"];
 var link480_1 = ["-.html", "-.html", "-.html"];
